@@ -1,0 +1,6 @@
+09/11/2022
+[Errno 2] No such file or directory: 'C:\\Users\\remit\\OneDrive\\Desktop\\task2\\word.txt'
+
+09/11/2022
+'list' object has no attribute 'appen'
+
